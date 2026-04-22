@@ -78,8 +78,7 @@ Top-level `Makefile` (`make help` lists everything):
 
 ## Tests
 
-Each test group is named after the requirement bullet it covers
-(see `requirement.txt`):
+Each test group is named after the requirement bullet it covers:
 
 - **Unit** — `grid_bloc_test`, `picsum_image_data_source_test`.
 - **Widget** — `image_cell_test` (corner radius 7, activity indicator),
