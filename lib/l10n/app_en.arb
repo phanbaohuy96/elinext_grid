@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "appTitle": "Picsum Grid",
+  "actionAddImage": "Add image",
+  "actionReloadAll": "Reload All",
+  "emptyImages": "No images yet."
+}
